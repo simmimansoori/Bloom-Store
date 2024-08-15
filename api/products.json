@@ -1,0 +1,73 @@
+[
+    {
+        "id":1,
+        "name":"Anime T-shirts",
+        "category": "Anime",
+        "color":"black",
+        "description":  "High quality printed Anime t-shirt, Black color, round-neck",
+        "price":999.99,
+        "stock":100,
+        "image":"./public/images/hero_img.jpg"
+    },
+    {
+        "id":2,
+        "name":"Anime T-shirts",
+        "category": "Anime",
+        "color":"black",
+        "description":  "High quality printed Anime t-shirt, Black color, round-neck",
+        "price":999.99,
+        "stock":100,
+        "image":"./public/images/hero_img.jpg"
+    },
+    {
+        "id":3,
+        "name":"Anime T-shirts",
+        "category": "Anime",
+        "color":"black",
+        "description":  "High quality printed Anime t-shirt, Black color, round-neck",
+        "price":999.99,
+        "stock":100,
+        "image":"./public/images/hero_img.jpg"
+      },
+    {
+        "id":4,
+        "name":"Anime T-shirts",
+        "category": "Anime",
+        "color":"black",
+        "description":  "High quality printed Anime t-shirt, Black color, round-neck",
+        "price":999.99,
+        "stock":100,
+       "image":"./public/images/hero_img.jpg"
+    },
+    {
+        "id":5,
+        "name":"Anime T-shirts",
+        "category": "Anime",
+        "color":"black",
+        "description":  "High quality printed Anime t-shirt, Black color, round-neck",
+        "price":999.99,
+        "stock":100,
+       "image":"./public/images/hero_img.jpg"
+    },
+    {
+        "id":6,
+        "name":"Anime T-shirts",
+        "category": "Anime",
+        "color":"black",
+        "description":  "High quality printed Anime t-shirt, Black color, round-neck",
+        "price":999.99,
+        "stock":100,
+        "image":"./public/images/hero_img.jpg"
+    },
+    {
+        "id":7,
+        "name":"Anime T-shirts",
+        "category": "Anime",
+        "color":"black",
+        "description":  "High quality printed Anime t-shirt, Black color, round-neck",
+        "price":999.99,
+        "stock":100,
+       "image":"./public/images/hero_img.jpg"
+    }
+
+]
