@@ -1,7 +1,7 @@
-import { getCartProductFromLS } from "../getCartProduct";
+import { getCartProductFromLS } from "./getCartProduct";
 import { showToast } from "./showToast";
 // import { showToast } from "./showToast";
-import { updateCartValue } from "./updateCartValue";
+import { updateCartValue } from "../updateCartValue";
 
 // -----------------------------------------------------
 // to get the cart data from localStorage
