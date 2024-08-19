@@ -7,7 +7,7 @@
         "description":  "High quality printed Anime t-shirt, Black color, round-neck",
         "price":999.99,
         "stock":100,
-        "image":"/images/hero_img.jpg"
+        "image":"./public/images/hero_img.jpg"
     },
     {
         "id":2,
@@ -17,7 +17,7 @@
         "description":  "High quality printed Anime t-shirt, Black color, round-neck",
         "price":999.99,
         "stock":100,
-        "image":"/images/hero_img.jpg"
+        "image":"./public/images/hero_img.jpg"
     },
     {
         "id":3,
@@ -27,7 +27,7 @@
         "description":  "High quality printed Anime t-shirt, Black color, round-neck",
         "price":999.99,
         "stock":100,
-        "image":"/images/hero_img.jpg"
+        "image":"./public/images/hero_img.jpg"
       },
     {
         "id":4,
@@ -37,7 +37,7 @@
         "description":  "High quality printed Anime t-shirt, Black color, round-neck",
         "price":999.99,
         "stock":100,
-       "image":"/images/hero_img.jpg"
+       "image":"./public/images/hero_img.jpg"
     },
     {
         "id":5,
@@ -47,7 +47,7 @@
         "description":  "High quality printed Anime t-shirt, Black color, round-neck",
         "price":999.99,
         "stock":100,
-       "image":"/images/hero_img.jpg"
+       "image":"./public/images/hero_img.jpg"
     },
     {
         "id":6,
@@ -57,7 +57,7 @@
         "description":  "High quality printed Anime t-shirt, Black color, round-neck",
         "price":999.99,
         "stock":100,
-        "image":"/images/hero_img.jpg"
+        "image":"./public/images/hero_img.jpg"
     },
     {
         "id":7,
@@ -67,7 +67,7 @@
         "description":  "High quality printed Anime t-shirt, Black color, round-neck",
         "price":999.99,
         "stock":100,
-       "image":"/images/hero_img.jpg"
+       "image":"./public/images/hero_img.jpg"
     }
 
 ]
