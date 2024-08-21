@@ -1,14 +1,15 @@
-   const footerHTML =  `<footer class="section-footer">
+   const footerHTML = 
+    `  <footer class="section-footer">
         <div class="footer-container container">
           <div class="content_1">
-            <img src="./public/images/logo.png" alt="logo" />
+            <img src="/images/logo.png" alt="logo" />
             <p>
-              Welcome to Thapa EcomStore, your ultimate destination for
-              cutting-edge gadgets!
+              Welcome to Bloom Store, your ultimate destination for
+              fashion!
             </p>
             <img src="https://i.postimg.cc/Nj9dgJ98/cards.png" alt="cards" />
           </div>
-         
+        
           <div class="content_3">
             <h4>Experience</h4>
             <a href="./contact.html">Contact Us</a>
@@ -28,10 +29,10 @@
         </div>
         <div class="f-design">
           <div class="f-design-txt">
-            <p>Design and Code by Simran Mansoori | Bloom </p>
+            <p>Design and Code by Simran Mansoori | Bloom</p>
           </div>
         </div>
-      </footer>`;
+    </footer>`;
 
-      const footerElem = document.querySelector(".section-footer");
-      footerElem.insertAdjacentHTML("afterbegin",footerHTML);
+  const footerElem = document.querySelector(".section-footer");
+  footerElem.insertAdjacentHTML("afterbegin",footerHTML);
