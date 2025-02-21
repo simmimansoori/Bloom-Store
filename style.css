@@ -1268,6 +1268,21 @@ footer {
     grid-template-columns: 1fr;
   }
 
+  .navbar-brand {
+    /* width: 30%; */
+    padding-left: 19rem;
+  
+
+  
+
+
+    /* margin-right: 0; */
+  
+    /* background-color: #1cf88a; */
+  
+  
+  }
+
   .section-hero{
     text-align: center;
 }
@@ -1280,15 +1295,15 @@ footer {
     grid-template-columns: repeat(1, minmax(33%, 1fr));
   }
 
-  /* #productCartContainer .card {
+   #productCartContainer .card {
     width: 100%;
-    display: grid; */
-    /* dont know grid-template-columns: 0.5fr 0.5fr 1fr 0.5fr 1fr 1fr; */
-    /* grid-template-columns: 0.5fr 0.1fr repeat(2, 1fr); */
-    /* align-items: center; */
-    /* margin: auto; */
-    /* gap: 3.2rem; */
-  /* } */
+    display: grid; 
+    grid-template-columns: 0.5fr 0.5fr 1fr 0.5fr 1fr 1fr; 
+    grid-template-columns: 0.5fr 0.1fr repeat(2, 1fr); 
+     align-items: center; 
+     margin: auto; 
+     gap: 3.2rem; 
+  } 
 
    .productQuantity {
     text-align: center;
